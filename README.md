@@ -6,6 +6,23 @@ A full-stack employee directory search system built for the Restaverse SDE assig
 
 ---
 
+## Screenshots
+
+![Dashboard Screenshot](./screenshots/dashboard.png)
+*(Please place your screenshot at `screenshots/dashboard.png` or update the path above)*
+
+---
+
+## Deployment
+
+The application is deployed across the following cloud platforms:
+
+- **Frontend:** Deployed on [Vercel](https://restaverse-assignment.vercel.app/)
+- **Backend API:** Deployed on [Render](https://restaverse-backend.onrender.com)
+- **Database:** MySQL database hosted on [Railway](https://railway.com)
+
+---
+
 ## Project Structure
 
 ```
