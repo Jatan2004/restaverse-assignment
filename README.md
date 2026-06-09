@@ -9,7 +9,7 @@ A full-stack employee directory search system built for the Restaverse SDE assig
 ## Screenshots
 
 ![Dashboard Screenshot](./screenshots/dashboard.png)
-*(Please place your screenshot at `screenshots/dashboard.png` or update the path above)*
+
 
 ---
 
